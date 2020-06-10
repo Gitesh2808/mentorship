@@ -148,3 +148,31 @@ _ _ _ _ _ _ _ _ _ _
 - Salary and wages
 - Raw materials and supplies
 - Office overheads
+
+ ## Date: June 10, 2020
+
+# What are the Cloud deployment models ?
+
+##### Ans.
+
+A cloud deployment model is a specific configuration of environment parameters such as the accessibility and proprietorship of the deployment infrastructure and storage size. It means that deployment types vary depending on who controls the infrastructure and where it resides.
+
+# 1.) Public Cloud :
+
+- The name speaks for itself: public clouds are available to the general public, and data are created and stored on third-party servers.
+
+- Server infrastructure belongs to service providers that manage them and administer pool resources, which is why there is no need for user companies to buy and maintain their hardware. Provider companies offer resources as a service both free of charge or on a pay-per-use basis via the Internet connection. Users can scale resources when required.
+
+- The public cloud deployment model is the first choice for businesses that operate within the industries with low privacy concerns. When it comes to popular public cloud deployment models, examples are Amazon Elastic Compute Cloud (Amazon EC2) — the top service provider, Microsoft Azure, Google App Engine, IBM Cloud, Salesforce Heroku and others.
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/a-cloud-provider@2x.png)
+
+### Advantages:
+
+- Hassle-free infrastructure management. Having a third party running your cloud infrastructure is convenient: you do not need to develop and maintain your software as the service provider does it for you.
+
+- High scalability. You can easily extend the available capacity as your company requirements increase.
+
+- Reduced costs. You pay only for the service you use, no need to invest in hardware or software.
+
+- 24/7 uptime. An extensive network of the provider’s servers ensures the constant availability of your infrastructure and its improved operation time.
